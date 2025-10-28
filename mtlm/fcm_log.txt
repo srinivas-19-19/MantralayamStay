@@ -1,5 +1,0 @@
-[11-Aug-2025 07:19:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'eOZ4QpbmREOZEBH8HsP4ZH:APA91bH65g0hZC2uwW2TgLgIhCpEJ-gFba24k8...' for key 'fcm_token' in /home/u326043007/domains/mantralayamroomsbooking.com/public_html/save_fcm_token.php:35
-Stack trace:
-#0 /home/u326043007/domains/mantralayamroomsbooking.com/public_html/save_fcm_token.php(35): mysqli_stmt->execute()
-#1 {main}
-  thrown in /home/u326043007/domains/mantralayamroomsbooking.com/public_html/save_fcm_token.php on line 35
